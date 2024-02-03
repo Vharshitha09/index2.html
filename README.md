@@ -42,7 +42,7 @@ A void element in HTML is an element that doesn't have any content and, therefor
 Element:
 An element is a fundamental building block in HTML that represents a structured piece of content in a document. example:<p> parah </p>
 Attribute:
-An attribute provides additional information about an HTML element and is always included in the opening tag. example:<a href="https://www.example.com">Click here</a>.
+An attribute provides additional information about an HTML element and is always included in the opening tag. example:<a href=https://www.example.com">Click here</a>.
 
 5.What is Html Entries and Why is it need in HTML ?
 HTML entities are special codes used to represent characters that have a special meaning in HTML, or characters that cannot be easily typed or displayed.
