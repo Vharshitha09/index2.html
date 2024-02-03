@@ -1,6 +1,6 @@
 <html>
     <head>
-        <h1>add image via local storage </h1>
+        <h1>ASSIGNMENT 2</h1>
     </head>
 <body>
         <p><strong>IMAGE ADDED VIA LOCAL STORAGE</strong></p>
